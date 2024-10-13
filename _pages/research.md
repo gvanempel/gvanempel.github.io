@@ -34,7 +34,22 @@ Radiating influence? Spillover effects among physicians (Draft available upon re
 <br/>
 
 
+[Determinants of Reproducibility and Replicability (Pre-analysis plan)](https://osf.io/zvqf8/)<br/>
+<small> contributor to a large-scale meta-analysis led by Abel Brodeur, Derek Mikola, and Nikolai Cook. <br/> <br/> 
+<div style="margin-left: 1em;">
+<details>
+<summary>Abstract</summary>
+<small>
+<p> In this study, we expand on our first meta paper and reproduce and replicate the main claims from additional empirical papers published in leading economic and political science outlets. We will also include a number of reproductions and replications from Nature Human Behaviour. For each study, we worked in small teams and either conducted a robustness reproduction —which is the ability to duplicate the results of a prior study using the same data but different procedures as were used by the original investigator — or recoded the study using the raw or intermediate data. Some teams did a combination of a robustness reproduction, recoding, or using new data. In this pre-analysis plan, we detail our 2nd meta paper’s research questions and methodology.</p>  
+</small>
+</details> 
+</div> 
+<br/>
+
 ## Work In Progress
+School Disruption and Children's Developmental Outcomes (with Jinhu Li and Yijuan Chen)<br/>
+<br/> 
+
 Heat and Healthcare Delivery (with Michelle Escobar-Carias)<br/>
 <br/> 
 
