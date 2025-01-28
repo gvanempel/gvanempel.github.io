@@ -9,7 +9,7 @@ author:
 ## Working Papers  
 Provider responses to market entry under competing health technologies (Draft available upon request) <br/>
 <small> with Daniel Avdic, Nils Gutacker, Bo Lagerqvist, and Johan Vikström.<br/> <br/>   
-*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, Asian Workshop on Econometrics and Health Economics (2023, Manila), Econometrics Society Australasian Meeting (scheduled). <br/>
+*Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, Asian Workshop on Econometrics and Health Economics (2023, Manila), Econometrics Society Australasian Meeting 2024. <br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
@@ -20,9 +20,10 @@ Provider responses to market entry under competing health technologies (Draft av
 </div> 
 <br/>
 
-Radiating influence? Spillover effects among physicians (Draft available upon request) <br/> 
+[Radiating influence? Spillover effects among physicians (Under review)](https://monash-ch-econ-wps.s3-ap-southeast-2.amazonaws.com/RePEc/mhe/chemon/2025-01.pdf)<br/>
+Radiating influence? Spillover effects among physicians (Under review) <br/> 
 <small> with Daniel Avdic, Umair Khalil, Johannes S. Kunz, Bo Lagerqvist, and Johan Vikström. <br/> <br/> 
-*Presentations:* ASHEcon 2023 (accepted), UK HESG 2023 (accepted), RES PhD Conference 2023 (accepted), Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid), Research School of Economics, ANU (scheduled). <br/> </small> 
+*Presentations:* Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid), Research School of Economics, ANU. <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
