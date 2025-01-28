@@ -21,7 +21,6 @@ Provider responses to market entry under competing health technologies (Draft av
 <br/>
 
 [Radiating influence? Spillover effects among physicians (Under review)](https://monash-ch-econ-wps.s3-ap-southeast-2.amazonaws.com/RePEc/mhe/chemon/2025-01.pdf)<br/>
-Radiating influence? Spillover effects among physicians (Under review) <br/> 
 <small> with Daniel Avdic, Umair Khalil, Johannes S. Kunz, Bo Lagerqvist, and Johan Vikström. <br/> <br/> 
 *Presentations:* Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid), Research School of Economics, ANU. <br/> </small> 
 <div style="margin-left: 1em;">
