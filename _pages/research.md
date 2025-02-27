@@ -59,9 +59,11 @@ Child Labour Ban, Schooling, and Domestic Violence (with Adam Dzulkipli and Sara
  
 ## Publications
 [Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://www.sciencedirect.com/science/article/pii/S0014292124000126)<br/>
-<small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/> <br/>   
+<small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/> <br/>
 *European Economic Review, April 2024*  <br/>
 *Presentations:* CINCH-dggo Academy of Health Science (Essen). <br/> </small> 
+*Data collection was done by the Institute for Economic and Social Research, Faculty of Business and Economics, University of Indonesia*  <br/>
+*JPAL Southeast Asia provided technical assistance*  <br/>
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
