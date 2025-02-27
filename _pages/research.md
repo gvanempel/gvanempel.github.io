@@ -62,8 +62,8 @@ Child Labour Ban, Schooling, and Domestic Violence (with Adam Dzulkipli and Sara
 <small> with Armand Sim, Asad Islam, Jahen Rezki, Gita Kusnadi, Michael Vlassopoulos, and Yves Zenou. <br/> <br/>
 *European Economic Review, April 2024*  <br/>
 *Presentations:* CINCH-dggo Academy of Health Science (Essen). <br/> </small> 
-*Data collection was done by the Institute for Economic and Social Research, Faculty of Business and Economics, University of Indonesia*  <br/>
-*JPAL Southeast Asia provided technical assistance*  <br/>
+*Data collection was done by the Institute for Economic and Social Research, Faculty of Business and Economics, University of Indonesia*  <br/> </small> 
+*JPAL Southeast Asia provided technical assistance*  <br/> </small> 
 <div style="margin-left: 1em;">
 <details>
 <summary>Abstract</summary>
