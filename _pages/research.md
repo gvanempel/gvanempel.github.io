@@ -7,7 +7,7 @@ author:
 <meta name="description" content="Overview of Giovanni van Empel's research.">
 
 ## Working Papers  
-Provider responses to market entry under competing health technologies (Draft available upon request) <br/>
+[Provider responses to market entry under competing health technologies (Under review)](https://monash-ch-econ-wps.s3-ap-southeast-2.amazonaws.com/RePEc/mhe/chemon/2025-10.pdf) <br/>
 <small> with Daniel Avdic, Nils Gutacker, Bo Lagerqvist, and Johan Vikström.<br/> <br/>   
 *Presentations:* UK HESG 2021, Melbourne Institute 2021, York (UK) 2021, iHEA 2021, AHES 2021, Asian Workshop on Econometrics and Health Economics (2023, Manila), Econometrics Society Australasian Meeting 2024. <br/>
 <div style="margin-left: 1em;">
@@ -47,15 +47,16 @@ Provider responses to market entry under competing health technologies (Draft av
 <br/>
 
 ## Work In Progress
-School Disruption and Children's Developmental Outcomes (with Jinhu Li and Yijuan Chen)<br/>
-<br/> 
-
-Heat and Healthcare Delivery (with Michelle Escobar-Carias)<br/>
+School Disruption, Parental Input, and Early Childhood Development (with Jinhu Li and Yijuan Chen)<br/>
 <br/> 
 
 Child Labour Ban, Schooling, and Domestic Violence (with Adam Dzulkipli and Sara Hutchinson-Tovar)<br/>
 <br/>  
   
+Heat and Healthcare Delivery (with Michelle Escobar-Carias)<br/>
+<br/> 
+
+
  
 ## Publications
 [Addressing Vaccine Hesitancy using Local Ambassadors: A Randomized Controlled Trial in Indonesia](https://www.sciencedirect.com/science/article/pii/S0014292124000126)<br/>
