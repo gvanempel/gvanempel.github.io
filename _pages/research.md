@@ -20,7 +20,7 @@ author:
 </div> 
 <br/>
 
-[Radiating influence? Spillover effects among physicians (Under review)](https://monash-ch-econ-wps.s3-ap-southeast-2.amazonaws.com/RePEc/mhe/chemon/2025-01.pdf)<br/>
+[Radiating influence? Spillover effects among physicians (Under review)](https://www.dropbox.com/scl/fi/vn8bnaglbm7x04kvq3dqm/Spillover-physicians_van-Empel-et-al_nov25.pdf?rlkey=aeuoaeo7wbmtg1zoj69myhnr7&st=brb1mdaw&dl=0 )<br/>
 <small> with Daniel Avdic, Umair Khalil, Johannes S. Kunz, Bo Lagerqvist, and Johan Vikström. <br/> <br/> 
 *Presentations:* Applied Young Economist Webinar, Econometrics Society of Australasian Meeting (Sydney), Labour Econometrics Workshop (Sydney), EuHEA PhD Conference (Bologna), European Workshop on Econometrics and Health Economics (Madrid), Research School of Economics, ANU. <br/> </small> 
 <div style="margin-left: 1em;">
@@ -47,7 +47,7 @@ author:
 <br/>
 
 ## Work In Progress
-School Disruption, Parental Input, and Early Childhood Development (with Jinhu Li and Yijuan Chen)<br/>
+School Disruptions, Parental Input, and Early Childhood Development (with Jinhu Li and Yijuan Chen)<br/>
 <br/> 
 
 Child Labour Ban, Schooling, and Domestic Violence (with Adam Dzulkipli and Sara Hutchinson-Tovar)<br/>
