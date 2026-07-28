@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giovanni van Empel"
 title_separator          : "-"
 name                     : &name "Giovanni van Empel"
-description              : &description "Research Fellow at The Australian National University"
+description              : &description "Research Fellow at Melbourne Institute, University of Melbourne"
 url                      : https://gvanempel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gvanempel/gvanempel.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Giovanni van Empel"
   avatar           : "2023_Giovanni_Empel_HRes_S7A0161_D Hannah (3).jpg"
   bio              : 
-  location         : "Canberra, Australia"
+  location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=zpIPXeIAAAAJ&hl=en"
-  email            : "giovanni.empel@anu.edu.au"
+  email            : "giovanni.empel@unimelb.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
